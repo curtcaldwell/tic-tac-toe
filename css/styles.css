@@ -1,0 +1,78 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  height: 225px;
+}
+
+#zero-zero-x, #zero-zero-o, #zero-one-x, #zero-one-o, #zero-two-x, #zero-two-o, #one-zero-x, #one-zero-o, #one-one-x, #one-one-o, #one-two-x, #one-two-o, #two-zero-x, #two-zero-o, #two-one-x, #two-one-o, #two-two-x, #two-two-o
+{
+  display: none;
+}
+
+#zero-zero
+{
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  height: 250px;
+}
+
+#zero-one
+{
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  border-left: 5px solid black;
+  height: 250px;
+}
+
+#zero-two
+{
+  border-bottom: 5px solid black;
+  border-left: 5px solid black;
+  height: 250px;
+}
+
+#one-zero
+{
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  height: 250px;
+}
+
+#one-one
+{
+  border: 5px solid black;
+  height: 250px;
+}
+
+#one-two
+{
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-left: 5px solid black;
+  height: 250px;
+}
+
+#two-zero
+{
+  border-top: 5px solid black;
+  border-right: 5px solid black;
+  height: 250px;
+}
+
+#two-one
+{
+  border-top: 5px solid black;
+  border-right: 5px solid black;
+  border-left: 5px solid black;
+  height: 250px;
+}
+
+#two-two
+{
+  border-top: 5px solid black;
+  border-left: 5px solid black;
+  height: 250px;
+}
